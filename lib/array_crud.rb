@@ -36,6 +36,8 @@ def remove_element_from_start_of_array(array)
   spirit_cat = cat_name.shift 
   
   p cat_name
+  
+  p spirit_cat
 end
 
 def retrieve_element_from_index(array, index_number)
