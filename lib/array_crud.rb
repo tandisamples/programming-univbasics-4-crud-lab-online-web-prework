@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
   
   cat_name.unshift("Patrick cat")
   
-  
+  p cat_name
 end
 
 def remove_element_from_end_of_array(array)
