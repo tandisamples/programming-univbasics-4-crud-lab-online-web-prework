@@ -42,6 +42,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
+  
+  cat_name
 end
 
 def retrieve_first_element_from_array(array)
