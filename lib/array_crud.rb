@@ -44,6 +44,12 @@ def retrieve_element_from_index(array, index_number)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
   
   cat_name[1]
+  
+  cat_name[0]
+  
+  cat_name[3]
+  
+  cat_name[2]
 end
 
 def retrieve_first_element_from_array(array)
