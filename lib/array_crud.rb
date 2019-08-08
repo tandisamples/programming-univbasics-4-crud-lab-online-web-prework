@@ -67,5 +67,5 @@ end
 def update_element_from_index(array, index_number, element)
  cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
  
- 
+ cat_name[2]
 end
