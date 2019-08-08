@@ -33,7 +33,7 @@ end
 
 def remove_element_from_start_of_array(array)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
-  spirit_cat
+  spirit_cat = cat_name
 end
 
 def retrieve_element_from_index(array, index_number)
