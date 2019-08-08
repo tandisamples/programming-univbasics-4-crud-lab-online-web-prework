@@ -10,6 +10,8 @@ def add_element_to_end_of_array(array, element)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
   
   cat_name.push("Patrick cat")
+  
+  p
 end
 
 def add_element_to_start_of_array(array, element)
