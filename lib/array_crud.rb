@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
   
   cat_name.push("Patrick cat")
   
-  p
+  p cat_name
 end
 
 def add_element_to_start_of_array(array, element)
