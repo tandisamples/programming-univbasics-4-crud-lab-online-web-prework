@@ -61,7 +61,7 @@ end
 def retrieve_last_element_from_array(array)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
   
-  cat_name[3]
+  cat_name[-1]
 end
 
 def update_element_from_index(array, index_number, element)
