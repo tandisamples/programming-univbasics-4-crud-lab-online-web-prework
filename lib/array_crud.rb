@@ -3,13 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-  cats = ["Spirit", "Magyc", "Billy", "Leo"]
+  cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
 end
 
 def add_element_to_end_of_array(array, element)
-  cats = ["Spirit", "Magyc", "Billy", "Leo"]
+  cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
   
-  cats << "Patrick cat"
+  cat_name << "Patrick cat"
 end
 
 def add_element_to_start_of_array(array, element)
