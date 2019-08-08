@@ -25,6 +25,10 @@ end
 def remove_element_from_end_of_array(array)
   cat_name = ["Spirit", "Magyc", "Billy", "Leo"]
   leo_cat = cat_name.pop
+  
+  p cat_name
+  
+  p leo_cat
 end
 
 def remove_element_from_start_of_array(array)
